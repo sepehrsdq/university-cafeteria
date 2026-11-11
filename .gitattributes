@@ -1,0 +1,15 @@
+# همهٔ فایل‌های متنی با LF ذخیره شوند
+* text=auto eol=lf
+
+# فایل‌های دودویی دست نخورند
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.jar binary
+*.model binary
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary
